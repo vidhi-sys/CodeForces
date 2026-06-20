@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 1 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 
 ---
 
@@ -20,6 +20,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2209A | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vidhi-sys/CodeForces/blob/HEAD/2209/A%20-%20Flip%20Flops/solution.cpp) |
 | 2209B | [Array](https://codeforces.com/contest/2209/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/vidhi-sys/CodeForces/blob/HEAD/2209/B%20-%20Array/solution.cpp) |
 
 ---

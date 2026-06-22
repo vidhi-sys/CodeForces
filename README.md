@@ -6,14 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 2 |
+| 4 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
+- [implementation](#implementation) (1)
+- [sortings](#sortings) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -27,9 +30,28 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 762B | [USB vs. PS/2](https://codeforces.com/contest/762/problem/B) | 1400 | [Python 3](https://github.com/vidhi-sys/CodeForces/blob/HEAD/762/B%20-%20USB%20vs.%20PS%2F2/solution.py) |
 | 2209A | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/vidhi-sys/CodeForces/blob/HEAD/2209/A%20-%20Flip%20Flops/solution.cpp) |
 | 2209B | [Array](https://codeforces.com/contest/2209/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/vidhi-sys/CodeForces/blob/HEAD/2209/B%20-%20Array/solution.cpp) |
 | 2209D | [Ghostfires](https://codeforces.com/contest/2209/problem/D) | 1800 | [C++20 (GCC 13-64)](https://github.com/vidhi-sys/CodeForces/blob/HEAD/2209/D%20-%20Ghostfires/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 762B | [USB vs. PS/2](https://codeforces.com/contest/762/problem/B) | 1400 | [Python 3](https://github.com/vidhi-sys/CodeForces/blob/HEAD/762/B%20-%20USB%20vs.%20PS%2F2/solution.py) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 762B | [USB vs. PS/2](https://codeforces.com/contest/762/problem/B) | 1400 | [Python 3](https://github.com/vidhi-sys/CodeForces/blob/HEAD/762/B%20-%20USB%20vs.%20PS%2F2/solution.py) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 762B | [USB vs. PS/2](https://codeforces.com/contest/762/problem/B) | 1400 | [Python 3](https://github.com/vidhi-sys/CodeForces/blob/HEAD/762/B%20-%20USB%20vs.%20PS%2F2/solution.py) |
 
 ---
 
